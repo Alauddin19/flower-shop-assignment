@@ -86,8 +86,10 @@ height: 470px;
     display: flex;
     text-align: center;
     border-radius: 8px;
+    margin-bottom: 100px;
 background: rgba(229, 84, 115, 0.05);
-padding-left: 1`80px;
+padding-left: 70px;
+
 }
 .offer-title{
     color: #272727;
@@ -115,4 +117,22 @@ padding-bottom: 24px;
     padding-top: 70px;
     padding-right: 180px;
     padding-bottom: 70px;
+}
+.instagram{
+    margin-left: 350px;
+    margin-right: 350px;
+    margin-bottom: 80px;
+}
+.insta-title{
+    color: #272727;
+text-align: center;
+font-family: Lato;
+font-size: 40px;
+font-weight: 800;
+}
+.insta-description{
+    color: rgba(39, 39, 39, 0.60);
+text-align: center;
+font-size: 18px;
+font-weight: 400;
 }
