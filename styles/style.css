@@ -136,3 +136,13 @@ text-align: center;
 font-size: 18px;
 font-weight: 400;
 }
+.image-container{
+    display: flex;
+    width:550px;
+    margin:10px;
+    margin-bottom: 80px;
+}
+.fool{
+margin-right:7px;
+    
+}
