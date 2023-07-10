@@ -54,7 +54,8 @@ margin-right: 420px;
 .Flower-item-cotainer{
     display: flex;
     text-align: center;
-    margin-left: 120px;
+    margin-left:80px;
+    margin-right: 80px;
     justify-content: center;
 }
 .flower-show{
