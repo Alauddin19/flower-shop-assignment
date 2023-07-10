@@ -146,3 +146,36 @@ font-weight: 400;
 margin-right:7px;
     
 }
+.deal{
+    border-radius: 8px;
+    background-image: url('../Flower\ Asset/Rectangle 9.png');
+    margin: 30px;
+    height: 400px;
+    
+    
+}
+.deal-title{
+    color: #272727;
+text-align: center;
+padding-top: 90px;
+font-size: 40px;
+font-weight: 800;
+}
+.deal-note{
+    color: rgba(39, 39, 39, 0.60);
+text-align: center;
+font-size: 18px;
+font-weight: 400;
+padding-top: 20px;
+padding-bottom: 30px;
+}
+#email{
+    border-radius: 8px;
+background: #FFF;
+width: 500px ;
+height: 50px; ;
+
+}
+.email{
+    text-align: center;
+}
