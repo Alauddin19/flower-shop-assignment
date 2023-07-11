@@ -179,3 +179,44 @@ padding-right: 663px;
 .fool{
     padding-right: 24px;
 }
+.deal{
+    width: 1440px;
+height: 449px;
+margin-left: 240px;
+margin-right: 240px;
+margin-bottom: 128px;
+border-radius: 8px;
+background: url('../Flower\ Asset/Rectangle 9.png')
+
+}
+.deal-title{
+    color: #272727;
+text-align: center;
+padding-left: 533px;
+padding-right: 534px;
+padding-top:122px ;
+padding-bottom: 18px;
+font-size: 40px;
+font-weight: 800;
+
+}
+.deal-note{
+    color: rgba(39, 39, 39, 0.60);
+text-align: center;
+font-size: 18px;
+font-weight: 400;
+padding-left: 590px;
+padding-right: 590px;
+padding-bottom: 48px;
+}
+#email{
+    width: 700px;
+height: 64px;
+}
+.email{
+    padding-left: 287px;
+    padding-right: 16px;
+}
+
+
+
