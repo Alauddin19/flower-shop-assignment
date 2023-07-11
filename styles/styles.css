@@ -41,10 +41,9 @@ font-weight: 700;
 .banner-image{
     padding-top: 50px;
     width: 635px; 
+    
 }
 .feature{
-    width: 1920px;
-height: 4867px;
 background: #FFF;
 }
 .feature-title{
@@ -66,4 +65,87 @@ font-weight: 400;
 margin-left: 663px;
 margin-right: 663px;
 margin-bottom: 48px;
+}
+.Flower-item-container{
+    display: flex;
+    background: #FFF;
+    margin-left: 240px;
+    margin-right: 240px;
+    margin-bottom: 128px;
+}
+
+#Pink{
+    width: 310px;
+height: 428px;
+border-radius: 300px 300px 0px 0px;
+background: rgba(167, 33, 98, 0.15);
+padding: 110px 78px 0px 76px;
+margin-right: 24px;
+margin-bottom: 32px;
+}
+#red{
+    width: 370px;
+height: 370px;
+padding: 117px 47px 51px;
+border-radius: 300px 300px 0px 0px;
+background: rgba(5, 151, 160, 0.15);
+margin-right: 24px;
+margin-bottom: 32px;
+}
+#yeallow{
+    width: 314px;
+height: 471px;
+padding: 67px 75px 0px;
+border-radius: 300px 300px 0px 0px;
+background: rgba(71, 125, 17, 0.15);
+margin-bottom: 32px;
+
+}
+.underline{
+    text-decoration: underline;
+    text-align: center;
+}
+.offer{
+    border-radius: 8px;
+background: rgba(229, 84, 115, 0.05);
+height: 620px; 
+display: flex;
+}
+.offer-title{
+    color: #272727;
+font-size: 40px;
+font-weight: 800;
+padding-top: 230px;
+padding-left: 421px;
+padding-right: 215px;
+padding-bottom: 24px;
+}
+.off{
+    color: #E55473;
+}
+.offer-description{
+    color: rgba(39, 39, 39, 0.60);
+text-align: center;
+font-size: 18px;
+font-weight: 400;
+padding-left: 395px;
+padding-bottom: 32px;
+padding-right: 186px;
+width: 594px; 
+}
+.btn-primary{
+padding: 20px 43px;
+align-items: flex-start;
+gap: 10px;border-radius: 8px;
+background: #E55473;
+
+}
+.button{
+    padding-left: 603px;
+    padding-bottom: 163px;
+}
+.offer-picture{
+    padding-right: 429px;
+    padding-top: 100px;
+    padding-bottom: 100px;
 }
