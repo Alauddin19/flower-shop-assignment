@@ -218,5 +218,40 @@ height: 64px;
     padding-right: 16px;
 }
 
-
-
+.ending{
+    background: #111010;
+    height: 449px;
+}
+.ending-title{
+font-size: 48px;
+font-weight: 800;
+padding-top: 128px;
+padding-left: 831px;
+padding-right: 832px;
+display: flex;
+padding-bottom: 24px;
+}
+.ending-details{
+    color: rgba(255, 255, 255, 0.90);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    width: 625px; 
+    padding-left: 648px;
+    padding-right: 649px;
+    padding-bottom: 24px;
+}
+.flower{
+    color: #E55473;
+}
+.shop{
+    color:#FFF}
+.ending-footnote{
+    color: rgba(255, 255, 255, 0.40);
+    text-align: center;
+    font-size: 16px;
+    font-weight: 400px;
+    padding-left: 783px;
+    padding-right: 784px;
+    padding-bottom: 128px;
+    }
