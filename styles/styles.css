@@ -169,3 +169,13 @@ padding-bottom: 48px;
 padding-left: 663px;
 padding-right: 663px;
 }
+.image-container{
+    display: flex;
+    margin-left: 240px;
+    margin-right: 240px;
+    margin-bottom:128px ;
+
+}
+.fool{
+    padding-right: 24px;
+}
