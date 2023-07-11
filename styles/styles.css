@@ -143,3 +143,115 @@ width: 415px;
     padding-left: 420px;
     padding-bottom: 115px;
 }
+.intagram{
+    background: #FFF;
+}
+.insta-title{
+    color: #272727;
+font-size: 28px;
+font-weight: 800;
+margin-top: 125px;
+margin-left: 596px;
+margin-right: 535px;
+margin-bottom: 17px;
+
+}
+.insta-description{
+    color: rgba(39, 39, 39, 0.60);
+width: 415px;
+font-size: 12px;
+text-align: center;
+font-weight: 400;
+padding-bottom: 34px;
+padding-left: 465px;
+padding-right: 465px;
+}
+.image-container{
+    display: flex;
+    justify-content:space-between;
+    gap: 15px;
+    margin-bottom: 20px;
+
+}
+.fool{
+    width:300px;
+}
+.fool img {
+    width: 100%;
+    border-radius: 5px;
+}
+.deal{
+    width: 1000px;
+height: 315px;
+margin-left: 168px;
+margin-right: 168px;
+margin-bottom: 90px;
+border-radius: 5px;
+background: url('../Flower\ Asset/Rectangle 9.png')
+
+}
+.deal-title{
+    color: #272727;
+text-align: center;
+padding-left: 373px;
+padding-right: 373px;
+padding: top 85px;
+padding-bottom: 12px;
+font-size: 28px;
+font-weight: 800;
+
+}
+.deal-note{
+    color: rgba(39, 39, 39, 0.60);
+text-align: center;
+font-size: 12px;
+font-weight: 400;
+padding-left: 415px;
+padding-right: 415px;
+padding-bottom: 34px;
+}
+#email{
+    width: 490px;
+height: 49px;
+}
+.email{
+    padding-left: 200px;
+    padding-right: 7px;
+}
+
+.ending{
+    background: #111010;
+    height: 315px;
+}
+.ending-title{
+font-size: 34px;
+font-weight: 800;
+padding-top: 90px;
+padding-left: 582px;
+padding-right: 582px;
+display: flex;
+padding-bottom: 17px;
+}
+.ending-details{
+    color: rgba(255, 255, 255, 0.90);
+    text-align: center;
+    font-size: 12px;
+    font-weight: 400;
+    width: 438px; 
+    padding-left: 454px;
+    padding-right: 454px;
+    padding-bottom: 17px;
+}
+.flower{
+    color: #E55473;
+}
+.shop{
+    color:#FFF}
+.ending-footnote{
+    color: rgba(255, 255, 255, 0.40);
+    font-size: 10px;
+    font-weight: 280px;
+    padding-left: 548px;
+    padding-right: 548px;
+    padding-bottom: 90px;
+    }
