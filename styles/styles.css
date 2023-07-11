@@ -69,3 +69,39 @@ padding-bottom: 17px;
     text-align: center;
     padding-left: 450px;
 }
+.Flower-item-container{
+    display: flex;
+    justify-content:space-around;
+    margin-left: 168px;
+    margin-right: 168px;
+}
+.underline{
+    text-align: center;
+    text-decoration: underline;
+}
+.flower-show{
+    margin-right: 16px;
+    margin-bottom: 22px;
+    width: 260px;
+
+}
+
+#Pink{
+
+   border-radius: 300px 300px 0px 0px;
+background: rgba(167, 33, 98, 0.15);
+padding: 110px 78px 0px 76px
+
+}
+#red{
+    border-radius: 300px 300px 0px 0px;
+background: rgba(5, 151, 160, 0.15);
+padding: 117px 47px 51px;
+
+}
+#yeallow{
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(71, 125, 17, 0.15);
+    padding: 67px 75px 0px;
+    
+}
