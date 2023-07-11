@@ -157,7 +157,10 @@ background: #E55473;
 text-align: center;
 font-size: 40px;
 font-weight: 800;
-padding: 128px 870px 24px;
+margin-top: 178px;
+margin-left: 763px;
+margin-right: 763px;
+margin-bottom: 24px;
 }
 .insta-description{
     color: rgba(39, 39, 39, 0.60);
