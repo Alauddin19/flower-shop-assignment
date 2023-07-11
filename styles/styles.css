@@ -74,6 +74,7 @@ padding-bottom: 17px;
     justify-content:space-around;
     margin-left: 168px;
     margin-right: 168px;
+    max-width: 1350px;
 }
 .underline{
     text-align: center;
@@ -171,6 +172,7 @@ padding-right: 465px;
     justify-content:space-between;
     gap: 15px;
     margin-bottom: 20px;
+    max-width: 1350px;
 
 }
 .fool{
