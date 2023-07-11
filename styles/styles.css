@@ -149,3 +149,23 @@ background: #E55473;
     padding-top: 100px;
     padding-bottom: 100px;
 }
+.intagram{
+    background: #FFF;
+}
+.insta-title{
+    color: #272727;
+text-align: center;
+font-size: 40px;
+font-weight: 800;
+padding: 128px 870px 24px;
+}
+.insta-description{
+    color: rgba(39, 39, 39, 0.60);
+text-align: center;
+width: 594px;
+font-size: 18px;
+font-weight: 400;
+padding-bottom: 48px;
+padding-left: 663px;
+padding-right: 663px;
+}
