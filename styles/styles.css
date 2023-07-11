@@ -8,6 +8,7 @@ height: 850px;
 background: rgba(229, 84, 115, 0.10);
 padding: 0px 240px;
 display: flex;
+justify-content: space-around;
 }
 .banner-content{
     padding-top: 197px;
@@ -32,6 +33,8 @@ padding-bottom: 32px;
 .btn-primary{
 padding: 20px 43px;
 align-items:center;
+border: none;
+outline:none;
 border-radius: 8px;
 background: #E55473;
 color: #FFFFFF;
@@ -48,7 +51,6 @@ background: #FFF;
 }
 .feature-title{
     color: #272727;
-text-align: center;
 font-size: 40px;
 font-weight: 800;
 margin-top: 178px;
@@ -116,8 +118,7 @@ display: flex;
 font-size: 40px;
 font-weight: 800;
 padding-top: 230px;
-padding-left: 421px;
-padding-right: 215px;
+padding-left: 423px;
 padding-bottom: 24px;
 }
 .off{
@@ -154,19 +155,19 @@ background: #E55473;
 }
 .insta-title{
     color: #272727;
-text-align: center;
 font-size: 40px;
 font-weight: 800;
 margin-top: 178px;
-margin-left: 763px;
+margin-left: 850px;
 margin-right: 763px;
 margin-bottom: 24px;
+
 }
 .insta-description{
     color: rgba(39, 39, 39, 0.60);
-text-align: center;
 width: 594px;
 font-size: 18px;
+text-align: center;
 font-weight: 400;
 padding-bottom: 48px;
 padding-left: 663px;
@@ -251,7 +252,6 @@ padding-bottom: 24px;
     color:#FFF}
 .ending-footnote{
     color: rgba(255, 255, 255, 0.40);
-    text-align: center;
     font-size: 16px;
     font-weight: 400px;
     padding-left: 783px;
