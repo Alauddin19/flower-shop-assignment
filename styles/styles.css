@@ -252,7 +252,9 @@ padding-bottom: 34px;
     width: 490px;
 height: 49px;
 border: none;
+
 }
+
 .email{
     padding-left: 200px;
     padding-right: 7px;
@@ -277,8 +279,8 @@ padding-bottom: 17px;
     font-size: 12px;
     font-weight: 400;
     width: 438px; 
-    padding-left: 454px;
-    padding-right: 454px;
+    padding-left: 373px;
+padding-right: 373px;
     padding-bottom: 17px;
 }
 .flower{
