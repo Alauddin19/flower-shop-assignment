@@ -176,10 +176,11 @@ margin: auto;
 }
 .image-container{
     display: flex;
-    justify-content:space-between;
-    margin-bottom: 20px;
-    margin-left: 168px;
-    margin-right: 168px;
+    justify-content:space-around;
+    margin: auto;
+    justify-content: center;
+    gap: 20px;
+    
 
 }
 #fool{
@@ -188,6 +189,9 @@ height: 280px;
 }
 .show-pic{
     display: flex;
+    justify-content: center;
+    margin: auto;
+    gap: 20px;
     
 }
 .nursery{
@@ -209,8 +213,9 @@ font-weight: 400;padding-top: 15px;
     display: flex;
     width: 240px;
 height: 280px;
-margin-right: 22px;
 margin-top: 20px;
+justify-content: center;
+gap: 20px;
 }
 .new{
     display: flex;
@@ -220,8 +225,8 @@ margin-top: 20px;
 .deal{
     background-image: url('../Flower\ Asset/Rectangle 9.png');
     background-size: cover;
+    background-position: center;
     height: 314px;
-width: 100%;
 border: none;
 width: 1029px;
 margin-bottom: 90px;
@@ -229,8 +234,6 @@ margin-bottom: 90px;
 .deal-title{
     color: #272727;
 text-align: center;
-padding-left: 373px;
-padding-right: 373px;
 padding-top:  85px;
 padding-bottom: 12px;
 font-size: 28px;
@@ -242,8 +245,7 @@ font-weight: 800;
 text-align: center;
 font-size: 12px;
 font-weight: 400;
-padding-left: 415px;
-padding-right: 415px;
+
 padding-bottom: 34px;
 }
 #email{
