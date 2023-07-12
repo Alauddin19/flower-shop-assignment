@@ -121,6 +121,8 @@ background: rgba(71, 125, 17, 0.15);
 background: rgba(229, 84, 115, 0.05);
 height: 435px; 
 display: flex;
+padding: auto;
+justify-content: center;
 }
 .offer-title{
     color: #272727;
@@ -248,16 +250,17 @@ font-weight: 400;
 
 padding-bottom: 34px;
 }
-#email{
-    width: 490px;
-height: 49px;
+.email{
 border: none;
+display: flex;
+justify-content: center;
+gap: 11px;
 
 }
-
-.email{
-    padding-left: 200px;
-    padding-right: 7px;
+#email{
+    width: 490px;
+    height: 45px;
+    padding: 0px 13px;
 }
 
 .ending{
