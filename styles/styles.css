@@ -190,6 +190,7 @@ height: 280px;
     display: flex;
     justify-content: center;
 }
+/*
 .deal{
 background-image: url('../Flower\ Asset/Rectangle 9.png');
 background-repeat: no-repeat;
@@ -200,6 +201,18 @@ padding-bottom: 76px;
 width: 75%;
 height: 259px;
 padding-bottom: 60px;
+}*/
+.deal{
+    background-image: url('../Flower\ Asset/Rectangle 9.png');
+
+    height: 300px;
+    background-size: cover;
+    height: 314px;
+width: 100%;
+border-radius: -218px;
+border: none;
+border-radius: 5px;
+width: 1029px;
 }
 .deal-title{
     color: #272727;
@@ -224,6 +237,7 @@ padding-bottom: 34px;
 #email{
     width: 490px;
 height: 49px;
+border: none;
 }
 .email{
     padding-left: 200px;
