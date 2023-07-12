@@ -73,6 +73,7 @@ padding-bottom: 17px;
     text-align: center;
     padding-left: 450px;
 }
+
 .Flower-item-container{
     display: flex;
 justify-content: space-between;
@@ -185,6 +186,26 @@ padding-right: 465px;
 #fool{
 width: 240px;
 height: 280px;
+}
+.show-pic{
+    display: flex;
+    
+}
+.nursery{
+    margin: 15px 168px 15px 168px;
+    text-align: center;
+    justify-content: center;
+}
+.origin{
+    width: 500px;
+    margin: auto;
+}
+.garden{
+    display: flex;
+    width: 240px;
+height: 280px;
+margin-right: 20px;
+margin-top: 20px;
 }
 .new{
     display: flex;
